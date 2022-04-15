@@ -1,0 +1,2 @@
++ Search works, though selection to be fixed
++ Menu options 80% with own Dialog and operational functions
